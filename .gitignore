@@ -1,0 +1,14 @@
+# Raw competition exports
+**/raw/*
+!**/raw/.gitkeep
+arena-export-*
+*.zip
+
+# Local analysis artifacts
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+
+# Private working notes
+**/NOTES.md
+**/DRAFT_NOTES.md
