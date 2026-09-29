@@ -10,7 +10,7 @@ Personal retrospectives and case studies from adversarial LLM testing and securi
 
 These write-ups focus on methodology, observed failure modes, lessons learned, and defensive implications.
 Raw competition exports are kept private by default and are not committed to this repository.
-Selected case details are published only after the relevant competition disclosure window has passed.
+Selected case details are published conservatively; raw exports and full transcript dumps remain private.
 
 ## About this repository
 
