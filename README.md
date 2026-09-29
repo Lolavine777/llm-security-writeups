@@ -4,13 +4,13 @@ Personal retrospectives and case studies from adversarial LLM testing and securi
 
 ## Write-ups
 
-- [Gray Swan Arena - IPI August 2026](./ipi-august-2026/README.md) - first competition, indirect prompt injection, 83/808 on the leaderboard.
+- [Gray Swan Arena - IPI August 2026](./ipi-august-2026/README.md) - first LLM security competition; indirect prompt injection; **83 / 824** on the leaderboard; reconstructed from preserved Arena traces.
 
 ## Disclosure approach
 
 These write-ups focus on methodology, observed failure modes, lessons learned, and defensive implications.
 Raw competition exports are kept private by default and are not committed to this repository.
-Exact payloads or challenge internals should only be published after checking the relevant competition disclosure rules.
+Selected case details are published only after the relevant competition disclosure window has passed.
 
 ## About this repository
 
