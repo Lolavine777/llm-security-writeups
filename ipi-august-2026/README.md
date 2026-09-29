@@ -9,6 +9,8 @@
 - Context: my first LLM security competition
 - Focus: indirect prompt injection across agentic scenarios
 
+(I am delegating all the writing works to AI since I'm too busy these days ToT I did try to steer it a certain way so it stays true to my experience, but I wish to have time to write this by hand soon! Feel free to reach out if you want to talk about this in depth)
+
 ## How I ended up here
 
 A week before this competition, I did not know this kind of LLM security competition existed.
