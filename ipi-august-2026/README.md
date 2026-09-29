@@ -5,7 +5,7 @@
 ## Result
 
 - Competition: Gray Swan Arena - IPI August 2026
-- Placement: **83 / 808**
+- Placement: **83 / 824**
 - Context: my first LLM security competition
 - Focus: indirect prompt injection across agentic scenarios
 
